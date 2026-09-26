@@ -1,0 +1,3 @@
+OPENAI_API_KEY="sk-proj-your-real-key-here"
+NOTION_TOKEN="secret_your-real-notion-token-here"
+NOTION_DATABASE_ID="your-database-id"
