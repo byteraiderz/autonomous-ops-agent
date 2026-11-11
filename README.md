@@ -1,6 +1,5 @@
 # 🚀 Autonomous Operations Agent (Operations Command Center)
 
-**Top 10 Finalist Project @ Build with SwytchCode: Gurgaon Edition Hackathon**
 
 An enterprise-grade, AI-powered command center that automates customer support resolution and processes financial refunds in seconds. 
 
